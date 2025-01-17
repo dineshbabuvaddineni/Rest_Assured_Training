@@ -1,0 +1,34 @@
+{
+  "store": {
+    "book": [
+      {
+        "author": "Herman Melville",
+        "category": "fiction",
+        "isbn": "0-553-21311-3",
+        "price": 75.50,
+        "title": "Moby Dick"
+      },
+      {
+        "author": "Mark Twain",
+        "category": "adventure",
+        "isbn": "0-553-21312-4",
+        "price": 80.00,
+        "title": "The Adventures of Tom Sawyer"
+      },
+      {
+        "author": "Jane Austen",
+        "category": "romance",
+        "isbn": "0-553-21313-5",
+        "price": 90.25,
+        "title": "Pride and Prejudice"
+      },
+      {
+        "author": "George Orwell",
+        "category": "dystopian",
+        "isbn": "0-553-21314-6",
+        "price": 85.75,
+        "title": "1984"
+      }
+    ]
+  }
+}
